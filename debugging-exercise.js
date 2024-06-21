@@ -5,19 +5,19 @@ const storeOwners = [
       location: "AZ",
     },
     {
-      name: 'Danny Shavez',
+      name: 'Sally Ride',
       stores: 1,
-      location: "NM",
+      location: "CA",
     },
     {
-      name: 'Danny Shavez',
+      name: 'Neil Armstrong',
       stores: 1,
-      location: "NM",
+      location: "TX",
     },
     {
-      name: 'Danny Shavez',
+      name: 'Buzz Aldrin',
       stores: 1,
-      location: "NM",
+      location: "TN",
     },
   ];
   
@@ -50,3 +50,4 @@ const storeOwners = [
   
   tellMeMyStores();
   hasStore();
+
